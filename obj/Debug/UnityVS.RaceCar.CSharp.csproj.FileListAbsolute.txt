@@ -1,0 +1,9 @@
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\obj\Debug\UnityVS.RaceCar.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\obj\Debug\Assembly-CSharp.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\RaceCar\obj\Debug\Assembly-CSharp.pdb
